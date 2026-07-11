@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Thiago Barcelos 👋
 
-<!--
-**ThiagoChristovam/ThiagoChristovam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Estácio).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Mecânico Automotivo em transição para a área de Tecnologia.
+
+💻 Atualmente estudando:
+- C
+- Java
+- Git
+- GitHub
+
+🎯 Objetivo:
+Conquistar minha primeira oportunidade como estagiário em Desenvolvimento de Software.
+
+## 🚀 Projetos
+
+- 🃏 Super Trunfo em C
+- 💻 Exercícios de Programação em C
+- 📚 Projetos da Faculdade
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/thiago-barcelos-b834b7408
